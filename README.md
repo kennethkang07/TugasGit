@@ -1,3 +1,3 @@
 Hallo
 Ini adalah tugas akhir git gamelab.id
-GIT RESET COMMITED
+reset, revert, checkout
